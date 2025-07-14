@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imerys Mexico PCC Growth Strategy</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        .slide { max-width: 800px; margin: 20px auto; padding: 20px; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; }
+        .slide h1 { font-size: 2em; text-align: center; color: #0056a3; margin-bottom: 20px; }
+        .slide ul { list-style-type: disc; padding-left: 20px; }
+        .slide li { margin-bottom: 10px; font-size: 1.1em; }
+        @media (max-width: 600px) {
+            .slide { margin: 10px; padding: 15px; }
+            .slide h1 { font-size: 1.5em; }
+            .slide li { font-size: 1em; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="slide">
+    <h1>Slide 1: Imerys Mexico PCC Growth Strategy</h1>
+    <ul>
+        <li>Strategic opportunities to expand PCC asset utilization in Mexico</li>
+        <li>Focus on pharma growth, mixed mineral slurries, and calcium citrate market penetration</li>
+        <li>Pyramid structure: Problem → Insight → Recommendation</li>
+        <li>Prepared for executive decision-making</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 2: The Problem - Underutilized PCC Capacity in Mexico</h1>
+    <ul>
+        <li>Imerys operates calcium carbonate assets globally, including in Mexico, but PCC production faces regional market saturation in traditional sectors like paper and plastics</li>
+        <li>Current utilization below optimal levels due to slowing demand in core industries, risking profitability and asset efficiency</li>
+        <li>Need to diversify applications to counter economic slowdowns and leverage Mexico's strategic location for North American markets</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 3: The Problem - Emerging Market Pressures</h1>
+    <ul>
+        <li>Global PCC market growth at 4-5% CAGR, but competition intensifying in low-value segments</li>
+        <li>Mexico's PCC asset exposed to supply chain vulnerabilities and regulatory shifts in environmental standards</li>
+        <li>Opportunity cost of not penetrating high-margin niches like pharma and specialty chemicals</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 4: Insight - Pharma Sector Growth Potential</h1>
+    <ul>
+        <li>PCC serves as a key excipient in pharmaceuticals, with market demand rising due to aging populations and health supplements</li>
+        <li>North American pharma market expanding at 4.8% CAGR, offering premium pricing for high-purity PCC</li>
+        <li>Imerys' existing high-purity minerals align with pharma-grade requirements, enabling quick market entry</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 5: Insight - Mixed Mineral Slurries Opportunities</h1>
+    <ul>
+        <li>Mixed slurries combine PCC with other minerals for applications in oilfield drilling, coatings, and industrial fluids</li>
+        <li>Market for mineral slurries growing with energy sector demands, where Imerys' expertise in customization provides competitive edge</li>
+        <li>Mexico's proximity to U.S. oilfields reduces logistics costs, boosting margins on slurry products</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 6: Insight - Calcium Citrate Market Penetration</h1>
+    <ul>
+        <li>Calcium citrate derived from PCC reactions, used in supplements and food fortification, with market growing at 3.7% CAGR to $1.2B by 2031</li>
+        <li>Mineral companies like Imerys can supply feedstock PCC, capturing value in downstream processing</li>
+        <li>Untapped potential in health-conscious markets, where purity and sustainability differentiate offerings</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 7: Recommendation - Expand into Pharma Applications</h1>
+    <ul>
+        <li>Invest in pharma-grade certification for Mexico PCC plant to target excipient supply chains</li>
+        <li>Form partnerships with regional pharma firms for co-development, aiming for 20% revenue uplift in 3 years</li>
+        <li>Leverage Imerys' global R&D to innovate PCC variants for drug delivery systems</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 8: Recommendation - Develop Mixed Mineral Slurries</h1>
+    <ul>
+        <li>Launch R&D for PCC-based mixed slurries tailored to oilfield and industrial needs</li>
+        <li>Scale production in Mexico with modular blending facilities, targeting energy sector clients</li>
+        <li>Implement pilot programs to demonstrate efficiency gains, projecting 15% asset utilization increase</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 9: Recommendation - Penetrate Calcium Citrate Market</h1>
+    <ul>
+        <li>Partner with citric acid producers for integrated calcium citrate manufacturing</li>
+        <li>Market sustainable, high-purity PCC as premium feedstock for supplements</li>
+        <li>Expand sales team in North America to secure long-term contracts, aiming for new revenue stream by 2027</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h1>Slide 10: Next Steps and Implementation</h1>
+    <ul>
+        <li>Conduct feasibility study within 3 months, including market sizing and ROI analysis</li>
+        <li>Allocate $50M capex for plant upgrades aligned with 2023-2025 strategic plan</li>
+        <li>Monitor KPIs: Revenue growth, utilization rates, and market share in target segments</li>
+        <li>Review progress quarterly with executive team for agile adjustments</li>
+    </ul>
+</div>
+
+</body>
+</html>
